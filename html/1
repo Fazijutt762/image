@@ -1,1 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clickable Image</title>
+</head>
+<body>
+    <a href="https://www.your-website.com">
+        <img src="https://cdn.fbsbx.com/v/t59.2708-21/434395818_386995227523593_7481536233675348463_n.gif?_nc_cat=101&ccb=1-7&_nc_sid=cf94fc&_nc_eui2=AeGvqmrbukQXfTuM1ZuLFafRDwlOiiHJA7cPCU6KIckDtzOpPMh8LJAomFFjp_kXwILgc5J7sqsfa4j42dBL_G0O&_nc_ohc=CHzKrLVjfFYAX_ri7cw&_nc_ht=cdn.fbsbx.com&oh=03_AdS4bo0w2Rv9eWtH7x1XRUd8dGnjxqJjAndxaTSTfX1c6Q&oe=6601F151" alt="Click to visit website">
+    </a>
+</body>
+</html>
 
